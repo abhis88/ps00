@@ -1,0 +1,64 @@
+==================================================== Software Installation ========================================================
+
+Date	Who	Start	Stop	Interruptions   Question    	TimeOnTask    	Comments
+8/30	AK	22:01	22:03	0		4		2		Successfully registered to NUWave
+8/30	AK	22:19	22:32	0		1		14		Signed up for the CCIS account
+8/30	AK	22:33	22:35	0		2		3		Powerpoint already installed on my system
+9/1	AK	12:07	13:05	0		5		58		Succesfully installed on my laptop
+9/1	AK	13:05	13:14	0		3		9		Successfully registered to Piazza
+9/1	AK	13:17	13:29	0		6		12		Successfully registered to Github
+
+
+Total Time On Task Q1 (minutes)         14
+Total Time On Task Q2 (minutes)         3
+Total Time On Task Q3 (minutes)         9
+Total Time On Task Q4 (minutes)         2
+Total Time On Task Q5 (minutes)         58
+Total Time On Task Q6 (minutes)         12
+
+TOTQ1 (hours and tenths)                0.3 
+TOTQ2 (hours and tenths)                0.1
+TOTQ1 (hours and tenths)                0.2
+TOTQ2 (hours and tenths)                0.1
+TOTQ1 (hours and tenths)                1.0
+TOTQ2 (hours and tenths)                0.2
+
+
+
+================================================= Introduction to Racket Exercises ==================================================
+
+Date	Who	Start	Stop	Interruptions   Question    	TimeOnTask    	Comments
+9/4	AK	15:02	15:09	0		1		7		Used inbuilt function like sqrt, sqr
+9/4	AK	15:10	15:17	0		2		7		Focusing on Exercise 2 and its easy
+9/4	AK	15:18	15:25	0		3		7		Thinking about excercise 4.
+9/4	AK	15:26	15:40	0		4		14		Do we need to validate input arguments ?
+9/4	AK	15:41	15:47	0		5		6		
+9/4	AK	15:48	15:59	0		6		11		Quadratic expression, solving this question
+9/4	AK	14:02	15:15	0		7		13		Whenever pi is used, answers have #i appended to it.
+9/5	AK	11:35	11:57	0		8		22		
+9/5	AK	11:58	12:27	0		9		29		F1 is very helpful tool, Observed the difference.
+9/5	AK	12:27	12:38	0		10		11		Used the inbuilt function min to solve this.
+
+
+Total Time On Task Q1 (minutes)         7
+Total Time On Task Q2 (minutes)         7
+Total Time On Task Q3 (minutes)         7
+Total Time On Task Q4 (minutes)         14
+Total Time On Task Q5 (minutes)         6
+Total Time On Task Q6 (minutes)         11
+Total Time On Task Q3 (minutes)         13
+Total Time On Task Q4 (minutes)         22
+Total Time On Task Q5 (minutes)         29
+Total Time On Task Q6 (minutes)         11
+
+TOTQ1 (hours and tenths)                0.1 
+TOTQ2 (hours and tenths)                0.1
+TOTQ1 (hours and tenths)                0.1
+TOTQ2 (hours and tenths)                0.2
+TOTQ1 (hours and tenths)                0.1
+TOTQ2 (hours and tenths)                0.2
+TOTQ2 (hours and tenths)                0.4
+TOTQ2 (hours and tenths)                0.5
+TOTQ2 (hours and tenths)                0.2
+
+=======================================================================================================================================
