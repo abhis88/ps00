@@ -39,6 +39,15 @@ Date	Who	Start	Stop	Interruptions   Question    TimeOnTask    Comments
 9/5	AK	11:58	12:27	0		9	    29		  F1 is very helpful tool, Observed the difference.
 9/5	AK	12:27	12:38	0		10	    11		  Used the inbuilt function min to solve this.
 
+============ Committing to Github: 9/6 17:15 ===================
+
+9/8	AK	10:23	10:34	0		11	    11		  
+9/8	AK	10:34	10:47	0		12	    13		 
+9/8	AK	10:47	10:59	0		13	    12		  
+9/9	AK	19:03	19:13	0		14	    10		  
+9/9	AK	19:14	19:22	0		15	    08		 Writing comments for Ex 14  
+
+============ Committing to Github: 9/10 21:05 ===================
 
 Total Time On Task Q1 (minutes)         7
 Total Time On Task Q2 (minutes)         7
@@ -46,19 +55,28 @@ Total Time On Task Q3 (minutes)         7
 Total Time On Task Q4 (minutes)         14
 Total Time On Task Q5 (minutes)         6
 Total Time On Task Q6 (minutes)         11
-Total Time On Task Q3 (minutes)         13
-Total Time On Task Q4 (minutes)         22
-Total Time On Task Q5 (minutes)         29
-Total Time On Task Q6 (minutes)         11
+Total Time On Task Q7 (minutes)         13
+Total Time On Task Q8 (minutes)         22
+Total Time On Task Q9 (minutes)         29
+Total Time On Task Q10 (minutes)        11
+Total Time On Task Q11 (minutes)        11
+Total Time On Task Q12 (minutes)        13
+Total Time On Task Q13 (minutes)        12
+Total Time On Task Q14 (minutes)        10
+Total Time On Task Q15 (minutes)        08
 
 TOTQ1 (hours and tenths)                0.1 
 TOTQ2 (hours and tenths)                0.1
-TOTQ1 (hours and tenths)                0.1
-TOTQ2 (hours and tenths)                0.2
-TOTQ1 (hours and tenths)                0.1
-TOTQ2 (hours and tenths)                0.2
-TOTQ2 (hours and tenths)                0.4
-TOTQ2 (hours and tenths)                0.5
-TOTQ2 (hours and tenths)                0.2
-
-============ Committing to Github: 9/6 17:15 ===================
+TOTQ3 (hours and tenths)                0.1
+TOTQ4 (hours and tenths)                0.2
+TOTQ5 (hours and tenths)                0.1
+TOTQ6 (hours and tenths)                0.2
+TOTQ7 (hours and tenths)                0.4
+TOTQ8 (hours and tenths)                0.5
+TOTQ9 (hours and tenths)                0.2
+TOTQ10 (hours and tenths)               0.1
+TOTQ11 (hours and tenths)               0.1
+TOTQ12 (hours and tenths)               0.1
+TOTQ13 (hours and tenths)               0.1
+TOTQ14 (hours and tenths)               0.1
+TOTQ15 (hours and tenths)               0.1
