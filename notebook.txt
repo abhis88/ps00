@@ -47,13 +47,31 @@ Date	Who	Start	Stop	Interruptions   Question    TimeOnTask    Comments
 9/9	AK	19:03	19:13	0		14	    10		  
 9/9	AK	19:14	19:22	0		15	    08		 Writing comments for Ex 14  
 
-============ Committing to Github: 9/10 21:05 ===================
+============ Committing to Github: 9/15 01:25 ===================
 
-Total Time On Task Q1 (minutes)         7
-Total Time On Task Q2 (minutes)         7
-Total Time On Task Q3 (minutes)         7
+9/10	AK	12:30	12:38	0		16	    18		  
+9/10	AK	12:39	12:47	0		17	    09		 
+9/10	AK	12:47	13:20	0		18	    33		  
+9/10	AK	13:20	13:35	0		19	    15		  
+9/10	AK	13:35	13:55	0		20	    20
+9/11	AK	10:50	11:15	0		21	    25		  
+9/11	AK	11:15	10:35	0		22	    20		 
+9/11	AK	10:35	10:45	0		23	    10		  
+9/11	AK	10:45	11:05	0		24	    20		  
+9/11	AK	11:05	11:20	0		25	    15		  
+9/11	AK	11:20	11:40	0		26	    20	  
+9/12	AK	10:34	10:50	0		27	    16		 
+9/12	AK	10:50	11:15	0		28	    25		  
+9/12	AK	11:15	11:35	0		29	    20		  
+9/12	AK	11:35	11:58	0		30	    23		  
+9/12	AK	11:58	12:14	0		31	    16		  
+9/12	AK	12:14	12:32	0		32	    18		  
+
+Total Time On Task Q1 (minutes)         07
+Total Time On Task Q2 (minutes)         07
+Total Time On Task Q3 (minutes)         07
 Total Time On Task Q4 (minutes)         14
-Total Time On Task Q5 (minutes)         6
+Total Time On Task Q5 (minutes)         06
 Total Time On Task Q6 (minutes)         11
 Total Time On Task Q7 (minutes)         13
 Total Time On Task Q8 (minutes)         22
@@ -64,6 +82,23 @@ Total Time On Task Q12 (minutes)        13
 Total Time On Task Q13 (minutes)        12
 Total Time On Task Q14 (minutes)        10
 Total Time On Task Q15 (minutes)        08
+Total Time On Task Q16 (minutes)        18
+Total Time On Task Q17 (minutes)        09
+Total Time On Task Q18 (minutes)        33
+Total Time On Task Q19 (minutes)        15
+Total Time On Task Q20 (minutes)        20
+Total Time On Task Q21 (minutes)        25
+Total Time On Task Q22 (minutes)        20
+Total Time On Task Q23 (minutes)        10
+Total Time On Task Q24 (minutes)        20
+Total Time On Task Q25 (minutes)        15
+Total Time On Task Q26 (minutes)        20
+Total Time On Task Q27 (minutes)        16
+Total Time On Task Q28 (minutes)        25
+Total Time On Task Q29 (minutes)        20
+Total Time On Task Q30 (minutes)        23
+Total Time On Task Q31 (minutes)        16
+Total Time On Task Q32 (minutes)        18
 
 TOTQ1 (hours and tenths)                0.1 
 TOTQ2 (hours and tenths)                0.1
@@ -80,3 +115,20 @@ TOTQ12 (hours and tenths)               0.1
 TOTQ13 (hours and tenths)               0.1
 TOTQ14 (hours and tenths)               0.1
 TOTQ15 (hours and tenths)               0.1
+TOTQ16 (hours and tenths)               0.3 
+TOTQ17 (hours and tenths)               0.1
+TOTQ18 (hours and tenths)               0.5
+TOTQ19 (hours and tenths)               0.2
+TOTQ20 (hours and tenths)               0.2
+TOTQ21 (hours and tenths)               0.2
+TOTQ22 (hours and tenths)               0.2
+TOTQ23 (hours and tenths)               0.1
+TOTQ24(hours and tenths)                0.2
+TOTQ25 (hours and tenths)               0.1
+TOTQ26 (hours and tenths)               0.2
+TOTQ27 (hours and tenths)               0.1
+TOTQ28 (hours and tenths)               0.3
+TOTQ29 (hours and tenths)               0.2
+TOTQ30 (hours and tenths)               0.2
+TOTQ31 (hours and tenths)               0.2
+TOTQ32 (hours and tenths)               0.2
